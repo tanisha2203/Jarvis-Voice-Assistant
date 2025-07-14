@@ -33,7 +33,7 @@ A voice-controlled AI assistant built using Python. Jarvis listens for your voic
 Jarvis-Voice-Assistant/
 ├── main.py              # Core logic (voice, AI, commands)
 ├── musicLibrary.py      # Custom music keyword-to-link map
-├── .env                 # API keys (not uploaded to GitHub)
+├── tempCodeRunnerFile.py # Temporary VS Code file (can be removed later)
 ├── .gitignore           # Ignore rules
-├── requirements.txt     # Python dependencies
-└── README.md            # This file
+├── README.md            # This file
+
