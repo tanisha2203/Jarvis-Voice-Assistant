@@ -1,6 +1,6 @@
 # 🤖 Jarvis - Voice Assistant in Python
 
-A voice-controlled AI assistant that performs tasks like opening websites, playing music, reading news, and answering questions using AI — all through voice commands!
+A voice-controlled AI assistant built using Python. Jarvis listens for your voice, performs tasks like opening websites, playing music, reading news, and answering questions via AI — all hands-free!
 
 ---
 
@@ -9,9 +9,9 @@ A voice-controlled AI assistant that performs tasks like opening websites, playi
 - 🎤 Voice activation with "Jarvis"
 - 🌐 Opens Google, YouTube, LinkedIn, Facebook
 - 📰 Speaks latest headlines using NewsAPI
-- 🎵 Plays custom YouTube songs via keywords
-- 🧠 AI responses via Cohere
-- 💬 Text-to-speech replies with pyttsx3
+- 🎵 Plays custom YouTube songs via keyword
+- 🧠 Responds to user queries using Cohere AI
+- 💬 Text-to-speech replies using pyttsx3
 
 ---
 
@@ -28,11 +28,12 @@ A voice-controlled AI assistant that performs tasks like opening websites, playi
 ---
 
 ## 📁 Folder Structure
+
+```bash
 Jarvis-Voice-Assistant/
-│
-├── main.py # Core logic (voice, AI, commands)
-├── musicLibrary.py # Custom music keyword-to-link map
-├── .env # API keys (not uploaded to GitHub)
-├── .gitignore # Ignore rules
-├── requirements.txt # Python dependencies
-└── README.md # This file
+├── main.py              # Core logic (voice, AI, commands)
+├── musicLibrary.py      # Custom music keyword-to-link map
+├── .env                 # API keys (not uploaded to GitHub)
+├── .gitignore           # Ignore rules
+├── requirements.txt     # Python dependencies
+└── README.md            # This file
