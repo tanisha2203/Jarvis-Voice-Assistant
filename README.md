@@ -28,4 +28,11 @@ A voice-controlled AI assistant that performs tasks like opening websites, playi
 ---
 
 ## 📁 Folder Structure
-
+Jarvis-Voice-Assistant/
+│
+├── main.py # Core logic (voice, AI, commands)
+├── musicLibrary.py # Custom music keyword-to-link map
+├── .env # API keys (not uploaded to GitHub)
+├── .gitignore # Ignore rules
+├── requirements.txt # Python dependencies
+└── README.md # This file
