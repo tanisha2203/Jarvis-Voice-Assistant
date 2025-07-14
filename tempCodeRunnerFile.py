@@ -1,6 +1,6 @@
 def aiProcess(command):
 #     # Initialize the Cohere client with your API key
-#     co = cohere.Client('R17F8RRJQE5xxPn02RvDdo0m9E57nCNxMbJvvPud')
+#     co = cohere.Client('xyz')
 
 #     # Generate a response using the Cohere text generation model
 #     response = co.generate(
